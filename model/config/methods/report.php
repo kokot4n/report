@@ -1,0 +1,7 @@
+<?php
+$methods = [
+    'pdf' => [
+		'params' => [
+		]
+	]
+];
